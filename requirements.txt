@@ -1,0 +1,5 @@
+psutil
+winotify
+requests
+pyautogui
+pywhatkit
